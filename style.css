@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80);
+    background-repeat: no-repeat;
+}
+
+.title {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.soon {
+    margin-left: 180px;
+}
+
+#countdown {
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    margin-top: 150px;
+}
